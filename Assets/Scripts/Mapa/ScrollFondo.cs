@@ -8,6 +8,7 @@ public class ScrollFondo : MonoBehaviour
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
+        ///Exampl eCommented Line
     }
 
     // Update is called once per frame
