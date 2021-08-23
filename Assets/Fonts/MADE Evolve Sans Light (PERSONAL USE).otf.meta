@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4dab132b74cad404a9693ddc14c8c355
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MADE Evolve Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 93d9dcca6cc3a68418a599f74f4cf05d, type: 3}
+  - {fileID: 12800000, guid: e87b18a2d92cec545b3b33ceb3f6b85e, type: 3}
+  - {fileID: 12800000, guid: 9c4cd3df55f495645a43a77be9664f68, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
